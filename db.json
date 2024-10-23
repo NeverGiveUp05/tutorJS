@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "chinhpd6",
+      "avatar": "https://fchat.vn/assets/img/Avatar-Facebook-trang.jpg",
+      "age": "22222",
+      "note": "ggggg",
+      "id": "2"
+    },
+    {
+      "username": "admin",
+      "avatar": "https://fchat.vn/assets/img/Avatar-Facebook-trang.jpg",
+      "age": "24",
+      "note": "",
+      "id": "0545"
+    },
+    {
+      "username": "sleep",
+      "avatar": "https://fchat.vn/assets/img/Avatar-Facebook-trang.jpg",
+      "age": "89",
+      "note": "",
+      "id": "f745"
+    }
+  ]
+}
